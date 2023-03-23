@@ -20,3 +20,10 @@ Use 'A' and 'D' to control the rods.
 ### Play Game here: (https://pingpongcn.netlify.app)
 
 ![Ping Pong Game Preview](https://user-images.githubusercontent.com/18380165/214067556-1875c4bf-873b-428d-ad6a-d5dc6031d7aa.jpg)
+
+
+## Contact Me
+* Email: shubhamdhiman00.sd@gmail.com
+* Instagram: @shubham_dhiman3.089
+* Twitter: @shubhamdhiman78
+* Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
