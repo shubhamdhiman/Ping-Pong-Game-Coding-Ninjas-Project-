@@ -25,5 +25,5 @@ Use 'A' and 'D' to control the rods.
 ## Contact Me
 * Email: shubhamdhiman00.sd@gmail.com
 * Instagram: @shubham_dhiman3.089
-* Twitter: @shubhamdhiman78
+* Twitter: https://twitter.com/shubhamdhiman78
 * Youtube: https://www.youtube.com/channel/UCiB-unVOfV1dcHWyvhesI4w
